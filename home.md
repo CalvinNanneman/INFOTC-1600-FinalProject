@@ -16,8 +16,8 @@ The range of addresses between the network address and the broadcast are 'usable
 
 ## What determines a networks size?
 
-Each IPv4 network has something called a subnet mask. The subnet mask is much like an IP address and consists of four octets of bits.
+Each IPv4 network has something called a subnet mask. The subnet mask is much like an IP address and consists of four octets of bits. The subnet mask is what ultimatly determines a network's number and range of usable IP addresses. Continue to the tutorial to see how the subnet mask is used to calculate the nubmer of usable addresses.
 
-[How to calculate usable IP addresses](calculate.md)
+[Tutorial - How to calculate usable IP addresses](calculate.md)
 
 [About](README.md)
